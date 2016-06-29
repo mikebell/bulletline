@@ -10,5 +10,16 @@ In addition, I recommend the
 using it on Mac OS X, [iTerm 2](http://www.iterm2.com/) over Terminal.app -
 it has significantly better color fidelity.
 
+# Install
+```cd $ZSH_CUSTOM```
+
+If theme folder exists skip this bit:
+
+```mkdir themes```
+
+```cd themes```
+
+```wget https://raw.githubusercontent.com/mikebell/bulletline/master/bulletline.zsh-theme```
+
 # Credit
 Credit should go to Agnoster mod and https://github.com/caiogondim for the hard work.
