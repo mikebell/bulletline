@@ -21,5 +21,7 @@ If theme folder exists skip this bit:
 
 ```wget https://raw.githubusercontent.com/mikebell/bulletline/master/bulletline.zsh-theme```
 
+Modify ```~/.zshrc``` and set ```ZSH_THEME="bulletline"```
+
 # Credit
 Credit should go to Agnoster mod and https://github.com/caiogondim for the hard work.
